@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-05-08T09:54:13Z",
+  "document_metrics": {
+    "file_name": "Advanced WYSIWYG editor.pdf",
+    "file_type": "pdf",
+    "file_size_kb": 3741.8,
+    "page_count": 31,
+    "is_page_count_estimated": false,
+    "word_count": 4915,
+    "char_count": 30270,
+    "sentence_count": 425,
+    "paragraph_count": 31,
+    "heading_count": 56,
+    "avg_words_per_paragraph": 158.5,
+    "max_heading_depth": 2,
+    "unique_words": 1096,
+    "vocabulary_richness": 0.223,
+    "table_count": 0,
+    "image_count": 0,
+    "code_block_count": 0,
+    "url_count": 1,
+    "estimated_reading_time_min": 24.6
+  },
+  "ai_analysis": {
+    "readability_level": "Complex",
+    "readability_score": 4,
+    "content_clarity": "The content explains features clearly, but the extremely long paragraphs and low vocabulary richness could make it difficult to digest and potentially lead to information overload. The presence of garbled characters from PDF conversion also impacts clarity.",
+    "structural_quality": "Moderately-Organized",
+    "migration_readiness": "Needs Minor Cleanup",
+    "migration_score": 6,
+    "estimated_migration_effort": "Medium",
+    "strengths": [
+      "Clear, descriptive headings and sections facilitate navigation.",
+      "Step-by-step instructions for using editor features are provided.",
+      "Specific to the Document360 platform, making it directly relevant.",
+      "Effective use of 'NOTE' and 'CAUTION' boxes for important information."
+    ],
+    "issues": [
+      "Extremely long paragraphs (Avg 158.5 words) make the content dense and hard to read/scan.",
+      "Low vocabulary richness (0.223) suggests repetitive phrasing, which can reduce engagement and clarity.",
+      "Zero images in a document describing a visual editor is a significant drawback.",
+      "Presence of garbled characters (e.g., (cid:31), (cid:36)) indicates poor PDF conversion quality, requiring manual cleanup.",
+      "The document's length (31 pages) combined with few paragraphs (31) reinforces the issue of unbroken text blocks."
+    ],
+    "suggestions": [
+      "Break down excessively long paragraphs into shorter, more digestible chunks to improve readability and scannability.",
+      "Introduce relevant screenshots and images to visually explain features of the WYSIWYG editor.",
+      "Review and enhance vocabulary to improve content richness and reduce repetition.",
+      "Thoroughly clean up all conversion artifacts (e.g., (cid:31), (cid:36)) to ensure text integrity.",
+      "Consider adding a table of contents for easier navigation within the document."
+    ],
+    "summary": "This document provides a structured overview of the Advanced WYSIWYG editor, utilizing clear headings and important notes. However, its extremely long paragraphs, low vocabulary richness, and lack of visual aids significantly hinder readability and user engagement. Migration will require substantial content reformatting and cleanup to optimize for a knowledge base."
+  }
+}
